@@ -2,6 +2,7 @@
 
 - [React Native](#react-native)
 - [Docker](#docker)
+- [Testing](#testing)
 
 ## React Native
 
@@ -15,3 +16,9 @@
 ## Docker
 
 - [8 protips](https://nodesource.com/blog/8-protips-to-start-killing-it-when-dockerizing-node-js/)
+
+
+## Testing
+
+- https://remysharp.com/2015/12/14/my-node-test-strategy
+- https://remysharp.com/2016/02/08/testing-tape-vs-tap
