@@ -3,6 +3,7 @@
 - [React Native](#react-native)
 - [Docker](#docker)
 - [Testing](#testing)
+- [Now](#now)
 
 ## React Native
 
@@ -22,3 +23,7 @@
 
 - https://remysharp.com/2015/12/14/my-node-test-strategy
 - https://remysharp.com/2016/02/08/testing-tape-vs-tap
+
+## Now
+
+- [Deploy secrets](https://egghead.io/lessons/node-js-use-secrets-when-deploying-applications-with-now)
