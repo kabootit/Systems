@@ -1,9 +1,17 @@
 # How I Do Stuff
 
+- [Cycle.js](#cyclejs)
+- [Typescript](#typescript)
 - [React Native](#react-native)
 - [Docker](#docker)
 - [Testing](#testing)
 - [Now](#now)
+
+## cyclejs
+
+- [sharing data across application not in a parent-child component hierarchy](https://github.com/staltz/cycle-onionify/issues/3#issuecomment-254655941)
+
+## Typescript
 
 ## React Native
 
