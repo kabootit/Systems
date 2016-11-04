@@ -5,6 +5,7 @@
 - [React Native](#react-native)
 - [Docker](#docker)
 - [Testing](#testing)
+- [Error handling](#error-handling)
 - [Now](#now)
 
 ## cyclejs
@@ -31,6 +32,10 @@
 
 - https://remysharp.com/2015/12/14/my-node-test-strategy
 - https://remysharp.com/2016/02/08/testing-tape-vs-tap
+
+## Error handling
+
+- https://www.joyent.com/node-js/production/design/errors
 
 ## Now
 
