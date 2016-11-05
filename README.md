@@ -18,9 +18,11 @@
 - [Structuring Larger Applications](https://github.com/cyclejs/cyclejs/wiki/Structuring-Larger-Applications-(Guidelines))
 - [Creating a Scalable JavaScript Application with Cycle.js](https://medium.com/@domagojk/creating-a-scalable-javascript-application-with-cycle-js-589f4d4020a5#.yjfpotio0) ([cycle-grid-driver](https://github.com/domagojk/cycle-grid-driver))
 - [culli: manage your application state](https://github.com/milankinen/culli)
+- [Redux DevTools extension](https://github.com/zalmoxisus/redux-devtools-extension)
 
 ## GraphQL
 
+- [Super simple GraphQL server with Hapi.js, MongoDB and a new Apollo Server](https://blog.callstack.io/super-simple-graphql-server-with-hapi-js-mongodb-and-a-new-apollo-server-41418ded2faf#.ym09exd3c)
 - http://graphql.org/code/
 - https://www.npmjs.com/package/apollo-server
 - https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/
