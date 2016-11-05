@@ -15,6 +15,7 @@
 - [sharing data across application not in a parent-child component hierarchy](https://github.com/staltz/cycle-onionify/issues/3#issuecomment-254655941)
 - [Refactor your cycle (app) into replaceable, reusable spare parts](https://journal.artfuldev.com/stop-breaking-your-head-refactor-your-cycle-app-into-replaceable-reusable-spare-parts-now-e10affed4e7d#.j2cnyxdwk)
 - [Structuring Larger Applications](https://github.com/cyclejs/cyclejs/wiki/Structuring-Larger-Applications-(Guidelines))
+- [Creating a Scalable JavaScript Application with Cycle.js](https://medium.com/@domagojk/creating-a-scalable-javascript-application-with-cycle-js-589f4d4020a5#.yjfpotio0) ([cycle-grid-driver](https://github.com/domagojk/cycle-grid-driver))
 
 ## Typescript
 
