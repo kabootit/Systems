@@ -8,6 +8,7 @@
 - [Error handling](#error-handling)
 - [Now](#now)
 - [Websites](#websites)
+- [Performance](#performance)
 
 ## cyclejs
 
@@ -49,3 +50,7 @@
 ## Now
 
 - [Deploy secrets](https://egghead.io/lessons/node-js-use-secrets-when-deploying-applications-with-now)
+
+## Performance
+
+- [Building a Shop with Sub-Second Page Loads](https://medium.baqend.com/building-a-shop-with-sub-second-page-loads-lessons-learned-4bb1be3ed07#.au377wnad)([HN](https://news.ycombinator.com/item?id=12774277))
