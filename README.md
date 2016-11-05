@@ -1,6 +1,7 @@
 # How I Do Stuff
 
 - [Cycle.js](#cyclejs)
+- [GraphQL](#graphql)
 - [Typescript](#typescript)
 - [React Native](#react-native)
 - [Docker](#docker)
@@ -16,6 +17,17 @@
 - [Refactor your cycle (app) into replaceable, reusable spare parts](https://journal.artfuldev.com/stop-breaking-your-head-refactor-your-cycle-app-into-replaceable-reusable-spare-parts-now-e10affed4e7d#.j2cnyxdwk)
 - [Structuring Larger Applications](https://github.com/cyclejs/cyclejs/wiki/Structuring-Larger-Applications-(Guidelines))
 - [Creating a Scalable JavaScript Application with Cycle.js](https://medium.com/@domagojk/creating-a-scalable-javascript-application-with-cycle-js-589f4d4020a5#.yjfpotio0) ([cycle-grid-driver](https://github.com/domagojk/cycle-grid-driver))
+- [culli: manage your application state](https://github.com/milankinen/culli)
+
+## GraphQL
+
+- http://graphql.org/code/
+- https://www.npmjs.com/package/apollo-server
+- https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/
+- https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/
+- https://github.com/RisingStack/graphql-server
+- https://dev-blog.apollodata.com/graphql-subscriptions-in-apollo-client-9a2457f015fb#.c7h7vssrd
+
 
 ## Typescript
 
