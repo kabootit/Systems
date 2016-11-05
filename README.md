@@ -8,7 +8,7 @@
 - [Git](#git)
 - [Testing](#testing)
 - [Error handling](#error-handling)
-- [Now](#now)
+- [Deployment](#deployment)
 - [Websites](#websites)
 - [Performance](#performance)
 
@@ -68,9 +68,10 @@
 - [Put yourself on internet with Jekyll, GitHub and Cloudflare](http://adgllorente.com/2016/09/put-yourself-on-internet-with-jekyll-github-and-cloudflare/)([HN](https://news.ycombinator.com/item?id=12558718))
 
 
-## Now
+## Deployment
 
 - [Deploy secrets](https://egghead.io/lessons/node-js-use-secrets-when-deploying-applications-with-now)
+- [Secret Management with Vault](http://chairnerd.seatgeek.com/secret-management-with-vault/)
 
 ## Performance
 
