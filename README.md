@@ -25,7 +25,7 @@
 ## GraphQL
 
 - [Super simple GraphQL server with Hapi.js, MongoDB and a new Apollo Server](https://blog.callstack.io/super-simple-graphql-server-with-hapi-js-mongodb-and-a-new-apollo-server-41418ded2faf#.ym09exd3c)
-- [GraphQL-to-SQL query execution](https://www.npmjs.com/package/join-monster)
+- [Join Monster: GraphQL-to-SQL query execution](https://www.npmjs.com/package/join-monster)
 - http://graphql.org/code/
 - https://www.npmjs.com/package/apollo-server
 - https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/
