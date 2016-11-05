@@ -30,6 +30,7 @@
 - https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/
 - https://github.com/RisingStack/graphql-server
 - https://dev-blog.apollodata.com/graphql-subscriptions-in-apollo-client-9a2457f015fb#.c7h7vssrd
+- [5 benefits of static GraphQL queries](https://dev-blog.apollodata.com/5-benefits-of-static-graphql-queries-b7fa90b0b69a#.5544984rp)
 
 
 ## Typescript
