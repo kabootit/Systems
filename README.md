@@ -5,6 +5,7 @@
 - [Typescript](#typescript)
 - [React Native](#react-native)
 - [Docker](#docker)
+- [Git](#git)
 - [Testing](#testing)
 - [Error handling](#error-handling)
 - [Now](#now)
@@ -45,6 +46,11 @@
 ## Docker
 
 - [8 protips](https://nodesource.com/blog/8-protips-to-start-killing-it-when-dockerizing-node-js/)
+
+
+## Git
+
+- [giteveryday(7) Manual Page](https://www.kernel.org/pub/software/scm/git/docs/giteveryday.html)
 
 
 ## Testing
