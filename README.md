@@ -51,7 +51,7 @@
 ## Git
 
 - [giteveryday(7) Manual Page](https://www.kernel.org/pub/software/scm/git/docs/giteveryday.html)
-
+- [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 
 ## Testing
 
