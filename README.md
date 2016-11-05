@@ -7,6 +7,7 @@
 - [Testing](#testing)
 - [Error handling](#error-handling)
 - [Now](#now)
+- [Websites](#websites)
 
 ## cyclejs
 
@@ -38,6 +39,11 @@
 ## Error handling
 
 - https://www.joyent.com/node-js/production/design/errors
+
+## Websites
+
+- [Prose: Edit Github](http://prose.io/#kabootit)
+
 
 ## Now
 
