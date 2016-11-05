@@ -11,6 +11,8 @@
 ## cyclejs
 
 - [sharing data across application not in a parent-child component hierarchy](https://github.com/staltz/cycle-onionify/issues/3#issuecomment-254655941)
+- [Refactor your cycle (app) into replaceable, reusable spare parts](https://journal.artfuldev.com/stop-breaking-your-head-refactor-your-cycle-app-into-replaceable-reusable-spare-parts-now-e10affed4e7d#.j2cnyxdwk)
+- [Structuring Larger Applications](https://github.com/cyclejs/cyclejs/wiki/Structuring-Larger-Applications-(Guidelines))
 
 ## Typescript
 
