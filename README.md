@@ -76,6 +76,7 @@
 
 - [Deploy secrets](https://egghead.io/lessons/node-js-use-secrets-when-deploying-applications-with-now)
 - [Secret Management with Vault](http://chairnerd.seatgeek.com/secret-management-with-vault/)
+- [Static hosting with NOW](https://egghead.io/lessons/tools-deploy-static-assets-with-zeit-s-now)
 
 ## Performance
 
