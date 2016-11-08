@@ -13,6 +13,7 @@
 - [Websites](#websites)
 - [Performance](#performance)
 - [Progressive](#progressive)
+- [Management](#management)
 
 ## cyclejs
 
@@ -96,3 +97,7 @@
 ## Progressive
 
 - [Native apps are doomed](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.inl5qhtin)
+
+## Management
+
+- [Kaiser](https://medium.com/@pdrummond/introducing-kaiser-204dba2c26ea#.a6j0ig56u) ([My repo](https://github.com/kabootit/kaiser))
