@@ -11,6 +11,7 @@
 - [Deployment](#deployment)
 - [Websites](#websites)
 - [Performance](#performance)
+- [Progressive](#progressive)
 
 ## cyclejs
 
@@ -84,3 +85,7 @@
 ## Performance
 
 - [Building a Shop with Sub-Second Page Loads](https://medium.baqend.com/building-a-shop-with-sub-second-page-loads-lessons-learned-4bb1be3ed07#.au377wnad)([HN](https://news.ycombinator.com/item?id=12774277))
+
+## Progressive
+
+- [Native apps are doomed](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.inl5qhtin)
