@@ -65,6 +65,7 @@
 ## Build
 
 - [Webpack — The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.y9xum0f3s)
+- [Getting Started with Webpack 2](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.bbrn9ppa4)
 - [Getting started with Webpack, part 2](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.1ucztos07)
 
 
