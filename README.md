@@ -1,5 +1,6 @@
 # How I Do Stuff
 
+- [Design](#design)
 - [Cycle.js](#cyclejs)
 - [GraphQL](#graphql)
 - [Tools](#tools)
@@ -15,6 +16,10 @@
 - [Performance](#performance)
 - [Progressive](#progressive)
 - [Management](#management)
+
+## Design
+
+[The design and implementation of software systems](http://zsck.co/2016/03/31/the-design-and-implementation-of-software-systems/)
 
 ## cyclejs
 
