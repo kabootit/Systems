@@ -20,6 +20,8 @@
 ## Design
 
 - [The design and implementation of software systems](http://zsck.co/2016/03/31/the-design-and-implementation-of-software-systems/)
+- [Reducing Cognitive Load](https://blog.marvelapp.com/design-principles-reducing-cognitive-load/)
+- [Why Deadlines Need to Drop Dead](https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1#.43nmmmhp7)
 
 ## cyclejs
 
