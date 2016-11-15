@@ -89,6 +89,9 @@
 - https://remysharp.com/2016/02/08/testing-tape-vs-tap
 - [5 Common Misconceptions About TDD & Unit Tests](https://medium.com/javascript-scene/5-common-misconceptions-about-tdd-unit-tests-863d5beb3ce9#.j4omeb29u)
 - [Migrating Ava to Jest](http://browniefed.com/blog/migrating-ava-to-jest/)
+- [Migrating to Jest](https://medium.com/@kentcdodds/migrating-to-jest-881f75366e7e#.l3uxfuorq)
+- [Course: Testing JavaScript with Jest](https://egghead.io/playlists/testing-javascript-with-jest-a36c4074)
+- [React Jest Workshop](https://github.com/kentcdodds/react-jest-workshop)
 
 ## Error handling
 
