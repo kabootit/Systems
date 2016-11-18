@@ -27,7 +27,7 @@
 3. Cognitive load: it's real. [Wiki](https://en.wikipedia.org/wiki/Cognitive_load) | [Reducing Cognitive Load](https://blog.marvelapp.com/design-principles-reducing-cognitive-load/)
 4. [You are not being paid to code!](http://bravenewgeek.com/you-are-not-paid-to-write-code/)
 5. [Why Deadlines Need to Drop Dead](https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1#.43nmmmhp7)
-
+6. [Mental models](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.6frdlkfyb)
 
 ## Design
 
