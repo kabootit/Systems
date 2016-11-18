@@ -1,5 +1,6 @@
 # How I Do Stuff
 
+- [Approach](#approach)
 - [Design](#design)
 - [Cycle.js](#cyclejs)
 - [GraphQL](#graphql)
@@ -16,6 +17,14 @@
 - [Performance](#performance)
 - [Progressive](#progressive)
 - [Management](#management)
+
+
+## Approach
+
+1. Surface area: Big is harder to control.
+2. Taco Bell approach: use same 8 ingredients for everything.
+3. Cognitive load: it's real. [Wiki](https://en.wikipedia.org/wiki/Cognitive_load) | [Design Principles for Reducing Cognitive Load](https://blog.marvelapp.com/design-principles-reducing-cognitive-load/)
+
 
 ## Design
 
