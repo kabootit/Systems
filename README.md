@@ -50,6 +50,13 @@
 
 > Personally I've just been using styling from Bootstrap (via the LESS source, haven't used any of the JS stuff) and have found it works pretty well with CSS Modules when you just @import the parts of Bootstrap you actually need and compose what you need from it into your component's classes. PureCSS should be far more CSS Modules friendly since a lot of the styles are more compartmentalized
 
+### Examples
+
+- https://github.com/Bertrand31/Monitaure
+- https://monitaure.io/tour
+- http://quasar-framework.org/guide/
+
+
 
 
 ## GraphQL
