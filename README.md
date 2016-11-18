@@ -103,6 +103,7 @@
 ## Docker
 
 - [8 protips](https://nodesource.com/blog/8-protips-to-start-killing-it-when-dockerizing-node-js/)
+- [Manage Data within Docker Volumes](https://egghead.io/lessons/tools-manage-data-within-docker-volumes)
 
 
 ## Git
