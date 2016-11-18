@@ -32,7 +32,7 @@
 ## Design
 
 - [The design and implementation of software systems](http://zsck.co/2016/03/31/the-design-and-implementation-of-software-systems/)
-
+- [NoSQL data modeling techniques](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
 
 ## cyclejs
 
