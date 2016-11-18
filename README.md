@@ -38,7 +38,13 @@
 
 ## Functional Programming
 
+- [What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.w1dsbzj5c)
+- [Making Your JavaScript More Functional](https://adam.merrifield.ca/2016/11/01/making-your-javascript-more-functional/)
 - [What makes functional programming so viable for problem modeling?](https://github.com/staltz/ama/issues/4)
+- [The Reactive Extensions for JavaScript](https://github.com/Reactive-Extensions/RxJS)
+- [10 Need-to-Know RxJS Functions with Examples](https://www.sitepoint.com/rxjs-functions-with-examples/)
+- [Handle Branching Logic with Ramda's Conditional Functions](https://egghead.io/lessons/javascript-handle-branching-logic-with-ramda-s-conditional-functions)
+
 
 ## cyclejs
 
