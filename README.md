@@ -3,6 +3,7 @@
 - [Approach](#approach)
 - [Design](#design)
 - [Cycle.js](#cyclejs)
+- [Components](#components)
 - [GraphQL](#graphql)
 - [Tools](#tools)
 - [Typescript](#typescript)
@@ -47,7 +48,7 @@
 
 1. Components with cyclejs
 
-Personally I've just been using styling from Bootstrap (via the LESS source, haven't used any of the JS stuff) and have found it works pretty well with CSS Modules when you just @import the parts of Bootstrap you actually need and compose what you need from it into your component's classes. PureCSS should be far more CSS Modules friendly since a lot of the styles are more compartmentalized
+> Personally I've just been using styling from Bootstrap (via the LESS source, haven't used any of the JS stuff) and have found it works pretty well with CSS Modules when you just @import the parts of Bootstrap you actually need and compose what you need from it into your component's classes. PureCSS should be far more CSS Modules friendly since a lot of the styles are more compartmentalized
 
 
 
