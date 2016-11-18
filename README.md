@@ -23,15 +23,15 @@
 
 1. Surface area: Big is harder to control. Effort goes a lot further (efficient) if surface area smaller.
 2. Taco Bell approach: use same 8 ingredients for everything.
-3. Cognitive load: it's real. [Wiki](https://en.wikipedia.org/wiki/Cognitive_load) | [Design Principles for Reducing Cognitive Load](https://blog.marvelapp.com/design-principles-reducing-cognitive-load/)
+3. Cognitive load: it's real. [Wiki](https://en.wikipedia.org/wiki/Cognitive_load) | [Reducing Cognitive Load](https://blog.marvelapp.com/design-principles-reducing-cognitive-load/)
 4. [You are not being paid to code!](http://bravenewgeek.com/you-are-not-paid-to-write-code/)
+5. [Why Deadlines Need to Drop Dead](https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1#.43nmmmhp7)
 
 
 ## Design
 
 - [The design and implementation of software systems](http://zsck.co/2016/03/31/the-design-and-implementation-of-software-systems/)
-- [Reducing Cognitive Load](https://blog.marvelapp.com/design-principles-reducing-cognitive-load/)
-- [Why Deadlines Need to Drop Dead](https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1#.43nmmmhp7)
+
 
 ## cyclejs
 
