@@ -2,6 +2,7 @@
 
 - [Approach](#approach)
 - [Design](#design)
+- [Functional Programming](#functional-programming)
 - [Cycle.js](#cyclejs)
 - [Components](#components)
 - [GraphQL](#graphql)
@@ -33,6 +34,10 @@
 
 - [The design and implementation of software systems](http://zsck.co/2016/03/31/the-design-and-implementation-of-software-systems/)
 - [NoSQL data modeling techniques](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
+
+## Functional Programming
+
+- [What makes functional programming so viable for problem modeling?](https://github.com/staltz/ama/issues/4)
 
 ## cyclejs
 
