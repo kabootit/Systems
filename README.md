@@ -43,6 +43,14 @@
 - [culli: manage your application state](https://github.com/milankinen/culli)
 - [Redux DevTools extension](https://github.com/zalmoxisus/redux-devtools-extension)
 
+## Components
+
+1. Components with cyclejs
+
+Personally I've just been using styling from Bootstrap (via the LESS source, haven't used any of the JS stuff) and have found it works pretty well with CSS Modules when you just @import the parts of Bootstrap you actually need and compose what you need from it into your component's classes. PureCSS should be far more CSS Modules friendly since a lot of the styles are more compartmentalized
+
+
+
 ## GraphQL
 
 - [Super simple GraphQL server with Hapi.js, MongoDB and a new Apollo Server](https://blog.callstack.io/super-simple-graphql-server-with-hapi-js-mongodb-and-a-new-apollo-server-41418ded2faf#.ym09exd3c)
