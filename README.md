@@ -164,6 +164,7 @@
 ## Progressive
 
 - [Native apps are doomed](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.inl5qhtin)
+- https://dev.opera.com/articles/pwa-resources/
 
 ## Management
 
