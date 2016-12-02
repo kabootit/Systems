@@ -125,7 +125,7 @@
 - [giteveryday(7) Manual Page](https://www.kernel.org/pub/software/scm/git/docs/giteveryday.html)
 - [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 - [Course: Practical Git](https://egghead.io/courses/practical-git-for-everyday-professional-use)
-- [Mono repo](https://github.com/lerna/lerna)
+- [Mono repo](https://github.com/lerna/lerna) ([New wave modularity with Lerna, monorepos, and npm organizations](http://www.macwright.org/2016/07/08/lerna-npm-organizations-new-wave-modularity.html))
 
 ## Build
 
