@@ -4,6 +4,7 @@
 - [Design](#design)
 - [Functional Programming](#functional-programming)
 - [Cycle.js](#cyclejs)
+- [VueJS](#vuejs)
 - [Components](#components)
 - [GraphQL](#graphql)
 - [Tools](#tools)
@@ -56,6 +57,15 @@
 - [Creating a Scalable JavaScript Application with Cycle.js](https://medium.com/@domagojk/creating-a-scalable-javascript-application-with-cycle-js-589f4d4020a5#.yjfpotio0) ([cycle-grid-driver](https://github.com/domagojk/cycle-grid-driver))
 - [culli: manage your application state](https://github.com/milankinen/culli)
 - [Redux DevTools extension](https://github.com/zalmoxisus/redux-devtools-extension)
+
+## VueJS
+
+### Components
+
+- [Vue 2.0 dropzone component uploads files to AWS S3 serverlessly](https://github.com/kfei/vue-s3-dropzone)
+
+
+
 
 ## Components
 
