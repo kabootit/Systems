@@ -9,7 +9,9 @@
 
 ## cyclejs
 
+- [Onionify](https://github.com/staltz/cycle-onionify)
 - [sharing data across application not in a parent-child component hierarchy](https://github.com/staltz/cycle-onionify/issues/3#issuecomment-254655941)
+
 
 ## Typescript
 
