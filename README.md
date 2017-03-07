@@ -8,7 +8,6 @@
 - [Components](#components)
 - [GraphQL](#graphql)
 - [Tools](#tools)
-- [Typescript](#typescript)
 - [React Native](#react-native)
 - [Server](#server)
 - [Docker](#docker)
@@ -108,8 +107,6 @@
 - [Secure tunnels to localhost](https://ngrok.com/)
 - https://localtunnel.github.io/www/
 
-
-## Typescript
 
 ## React Native
 
