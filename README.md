@@ -7,7 +7,7 @@
 - [VueJS](#vuejs)
 - [Components](#components)
 - [GraphQL](#graphql)
-- [Tools](#tools)
+- [Utilities](#utilities)
 - [React Native](#react-native)
 - [Server](#server)
 - [Docker](#docker)
@@ -102,10 +102,11 @@
 - [Realtime GraphQL](https://dev-blog.apollodata.com/graphql-subscriptions-in-apollo-client-9a2457f015fb#.iwixrdc9n)
 - https://github.com/OlegIlyenko/graphiql-workspace
 
-## Tools
+## Utilities
 
 - [Secure tunnels to localhost](https://ngrok.com/)
 - https://localtunnel.github.io/www/
+- [Compress Video](https://news.ycombinator.com/item?id=13969520)
 
 
 ## React Native
