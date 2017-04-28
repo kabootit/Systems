@@ -7,6 +7,7 @@
 - [VueJS](#vuejs)
 - [Components](#components)
 - [GraphQL](#graphql)
+- [JSON](#json)
 - [Utilities](#utilities)
 - [React Native](#react-native)
 - [Server](#server)
@@ -85,7 +86,10 @@
 - https://github.com/erikras/styled-components
 - https://github.com/erikras/styled-components-theme
 
+## JSON
 
+- [Generate Schema from Typescript](https://github.com/YousefED/typescript-json-schema)
+- [Validate JSON with Schema](https://github.com/mafintosh/is-my-json-valid)
 
 
 ## GraphQL
