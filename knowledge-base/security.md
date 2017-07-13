@@ -11,3 +11,14 @@
 ## Ad blockers
 
 - [Pi-hole](https://pi-hole.net/)
+
+
+## Node
+
+- https://snyk.io/
+- https://www.youtube.com/watch?v=QSMbk2nLTBk&list=PLfMzBWSH11xYaaHMalNKqcEurBH8LstB8
+
+
+## Devops
+
+- https://devops-security-checklist.sqreen.io/

@@ -71,4 +71,8 @@ Finally, some potential benefits the business can leverage from an open source i
 	- below-average code
 	- not documented
 	- not easy to on-board and setup
-	- is not interesting
+	- not interesting
+	- can't be bothered
+	- not worthwhile to maintain up to company policy (TODO)
+
+TODO: address maintenance costs/approach/procedures/rules
