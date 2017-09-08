@@ -27,6 +27,7 @@
 - [draggable and resizable elements](https://github.com/mauricius/vue-draggable-resizable)
 - [fullCalendar](https://github.com/Wanderxx/vue-fullcalendar)
 - [Full overlay loading with spinner for Vue](https://github.com/PygmySlowLoris/vue-full-loading)
+- [Vue ChartJS](https://github.com/apertureless/vue-chartjs)
 
 
 ## Libraries
@@ -52,3 +53,4 @@
 - https://github.com/adgang/vue-tutorial
 - [Getting Started with Vuex](https://scotch.io/tutorials/state-management-in-vue-getting-started-with-vue)
 - [Keeping props DRY in Vue.js](https://medium.com/front-end-hacking/keeping-props-dry-in-vue-js-9d8294fa708f)
+- [Vue Data Flow and Shared State](https://benjaminlistwon.com/blog/data-flow-in-vue-and-vuex/) [Github](https://github.com/BenjaminListwon/vue-data-flow)
