@@ -6,8 +6,15 @@
 - [Impressions after Vue Conference 2017](http://no-kill-switch.ghost.io/impressions-after-vue-conf-2017/)
 
 
+## Libraries
+
+- [vue-rx](https://github.com/vuejs/vue-rx)
+- [Model validator](https://github.com/deulos/vuejs-model-validator)
+
+
 ## Components
 
+- [runkit](https://github.com/maple3142/vue-runkit)
 - [Multiselect](https://github.com/monterail/vue-multiselect)
 - https://github.com/euvl/vue-js-toggle-button
 - https://github.com/vanderleisilva/vue-auto-progress
