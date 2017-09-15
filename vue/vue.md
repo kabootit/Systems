@@ -53,6 +53,7 @@
 ## Examples
 
 - https://hnpwa.com/
+- [Open Source dashboards](https://github.com/vudash/vudash)
 
 
 ## Tutorials
