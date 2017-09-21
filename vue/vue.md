@@ -14,6 +14,12 @@
 
 ## Components
 
+- [reusable skeleton card component](https://github.com/FrancescoSaverioZuppichini/skeleton-card-vuejs)
+- [intersection-observer to a Vue component or HTML element](https://github.com/heavyy/vue-intersect)
+- [Vue2 component that helps with Visjs (charting) interaction](https://github.com/alexcode/vue2vis)
+- [vue-fullscreen](http://mirari.cc/vue-fullscreen/)
+- [Portal View](https://github.com/LinusBorg/portal-vue)
+- [Vue.js drag & drop uploader](https://github.com/alexsasharegan/vue-transmit)
 - [runkit](https://github.com/maple3142/vue-runkit)
 - [Multiselect](https://github.com/monterail/vue-multiselect)
 - https://github.com/euvl/vue-js-toggle-button
@@ -58,7 +64,13 @@
 
 ## Tutorials
 
+- [Mixins and Plugins in VueJS](https://medium.com/@denny.headrick/mixins-and-plugins-in-vuejs-ecee9b37d1bd)
+- [Functional VueJS in 12 lines](https://jsfiddle.net/yyx990803/0a22ojps/)
 - https://github.com/adgang/vue-tutorial
 - [Getting Started with Vuex](https://scotch.io/tutorials/state-management-in-vue-getting-started-with-vue)
 - [Keeping props DRY in Vue.js](https://medium.com/front-end-hacking/keeping-props-dry-in-vue-js-9d8294fa708f)
 - [Vue Data Flow and Shared State](https://benjaminlistwon.com/blog/data-flow-in-vue-and-vuex/) [Github](https://github.com/BenjaminListwon/vue-data-flow)
+
+## Mobile/Native apps
+
+- [Mobile Apps with Vue and NativeScript](https://www.youtube.com/watch?v=claDp19_aqA)
