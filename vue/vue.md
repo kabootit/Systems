@@ -14,6 +14,10 @@
 
 ## Components
 
+- [Extend the default layout or create custom layouts](https://github.com/ktquez/vue-extend-layout)
+- [Vue.js wrapper for Chart.js](https://github.com/apertureless/vue-chartjs)
+- [show and hide components based on breakpoints](https://github.com/apertureless/vue-breakpoints)
+- [Fixed size grid](https://github.com/euvl/vue-js-grid)
 - [reusable skeleton card component](https://github.com/FrancescoSaverioZuppichini/skeleton-card-vuejs)
 - [intersection-observer to a Vue component or HTML element](https://github.com/heavyy/vue-intersect)
 - [Vue2 component that helps with Visjs (charting) interaction](https://github.com/alexcode/vue2vis)
@@ -64,12 +68,19 @@
 
 ## Tutorials
 
+- [computed properties can return functions? Very useful with partial application and #webpack dynamic imports](https://twitter.com/DamianDulisz/status/903569400095285248)
 - [Mixins and Plugins in VueJS](https://medium.com/@denny.headrick/mixins-and-plugins-in-vuejs-ecee9b37d1bd)
 - [Functional VueJS in 12 lines](https://jsfiddle.net/yyx990803/0a22ojps/)
 - https://github.com/adgang/vue-tutorial
 - [Getting Started with Vuex](https://scotch.io/tutorials/state-management-in-vue-getting-started-with-vue)
 - [Keeping props DRY in Vue.js](https://medium.com/front-end-hacking/keeping-props-dry-in-vue-js-9d8294fa708f)
 - [Vue Data Flow and Shared State](https://benjaminlistwon.com/blog/data-flow-in-vue-and-vuex/) [Github](https://github.com/BenjaminListwon/vue-data-flow)
+
+
+## Tips
+
+- [enable TypeScript checking inside of ANY JavaScript file](https://twitter.com/burkeholland/status/911289770986307584)
+- [computed properties can return functions? Very useful with partial application and #webpack dynamic imports](https://twitter.com/DamianDulisz/status/903569400095285248)
 
 ## Mobile/Native apps
 
