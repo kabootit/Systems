@@ -1,6 +1,6 @@
 # How I Do Stuff
 
-    > Where I put stuff to sort out later
+> Where I put stuff to sort out later
 
 - [Approach](#approach)
 - [Design](#design)
