@@ -2,18 +2,16 @@
 
 ## Articles
 
+- [When to use Server-Side Rendering (SSR) in Vue.js projects](https://medium.com/@ktquez/when-to-use-server-side-rendering-ssr-in-vue-js-projects-697bd925d57b)
 - [Why We Love, Use, And Support Vue.js](https://www.monterail.com/blog/why-we-use-vuejs)
 - [Impressions after Vue Conference 2017](http://no-kill-switch.ghost.io/impressions-after-vue-conf-2017/)
 
-
-## Libraries
-
-- [vue-rx](https://github.com/vuejs/vue-rx)
-- [Model validator](https://github.com/deulos/vuejs-model-validator)
-
-
 ## Components
 
+- [Performance optimization of vue-i18n](https://medium.com/@kazu_pon/performance-optimization-of-vue-i18n-83099eb45c2d)
+- [Vue.js wrapper for Vimeo player](https://github.com/dobromir-hristov/vue-vimeo-player)
+- [view the profile and repos of github user](https://github.com/GabrielBibiano/vue-github-profile)
+- [Vuelidate form-group helper that extracts errors easily](https://github.com/dobromir-hristov/vuelidate-error-extractor)
 - [Extend the default layout or create custom layouts](https://github.com/ktquez/vue-extend-layout)
 - [Vue.js wrapper for Chart.js](https://github.com/apertureless/vue-chartjs)
 - [show and hide components based on breakpoints](https://github.com/apertureless/vue-breakpoints)
@@ -53,7 +51,15 @@
 - [Gun + Vue](https://github.com/beebase/gun-vuex-quasar)
 - [socket.io implementation for vuejs](https://github.com/MetinSeylan/Vue-Socket.io)
 - [alternative, opinionated approach to Vuex helpers](https://github.com/ejfrancis/Vuex-Alt)
+- [vue-rx](https://github.com/vuejs/vue-rx)
+- [Model validator](https://github.com/deulos/vuejs-model-validator)
 
+
+## Best Practices
+
+- [Style Guide](https://vuejs.org/v2/style-guide/)
+- [REST best practices 101](https://tyk.io/blog/rest-api-best-practices-101/)
+- [Image compression](https://images.guide/)
 
 ## UIs
 
@@ -62,12 +68,14 @@
 
 ## Examples
 
+- [SVG](https://jsfiddle.net/Akryum/s8a6qqe6/)
 - https://hnpwa.com/
 - [Open Source dashboards](https://github.com/vudash/vudash)
 
 
 ## Tutorials
 
+- [Bundle and publish your Vue component ](https://medium.com/poi-js/bundle-and-publish-your-vue-componet-like-a-pro-9ce27f9b5f65)
 - [computed properties can return functions? Very useful with partial application and #webpack dynamic imports](https://twitter.com/DamianDulisz/status/903569400095285248)
 - [Mixins and Plugins in VueJS](https://medium.com/@denny.headrick/mixins-and-plugins-in-vuejs-ecee9b37d1bd)
 - [Functional VueJS in 12 lines](https://jsfiddle.net/yyx990803/0a22ojps/)
