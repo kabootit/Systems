@@ -8,6 +8,7 @@
 
 ## Components
 
+- [Pure JS components — lot's of them](https://plainjs.com/javascript/plugins/inputs/)
 - [Performance optimization of vue-i18n](https://medium.com/@kazu_pon/performance-optimization-of-vue-i18n-83099eb45c2d)
 - [Vue.js wrapper for Vimeo player](https://github.com/dobromir-hristov/vue-vimeo-player)
 - [view the profile and repos of github user](https://github.com/GabrielBibiano/vue-github-profile)
@@ -73,8 +74,9 @@
 - [Open Source dashboards](https://github.com/vudash/vudash)
 
 
-## Tutorials
+## Tips and Tutorials
 
+- [Methods, Computed and Watch differences?]()https://www.reddit.com/r/vuejs/comments/62taxy/methods_computed_or_watch/
 - [Bundle and publish your Vue component ](https://medium.com/poi-js/bundle-and-publish-your-vue-componet-like-a-pro-9ce27f9b5f65)
 - [computed properties can return functions? Very useful with partial application and #webpack dynamic imports](https://twitter.com/DamianDulisz/status/903569400095285248)
 - [Mixins and Plugins in VueJS](https://medium.com/@denny.headrick/mixins-and-plugins-in-vuejs-ecee9b37d1bd)
