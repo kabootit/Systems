@@ -8,6 +8,7 @@
 
 ## Components
 
+- [Heatmap directive for tracking user activity](https://github.com/BrockReece/vue-heatmapjs?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Vue-newsletter)
 - [Pure JS components — lot's of them](https://plainjs.com/javascript/plugins/inputs/)
 - [Performance optimization of vue-i18n](https://medium.com/@kazu_pon/performance-optimization-of-vue-i18n-83099eb45c2d)
 - [Vue.js wrapper for Vimeo player](https://github.com/dobromir-hristov/vue-vimeo-player)
