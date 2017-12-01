@@ -65,6 +65,7 @@
 
 ## UIs
 
+- [Made with Vue](https://madewithvuejs.com/)
 - http://beta.quasar-framework.org/
 
 
